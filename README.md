@@ -3,19 +3,19 @@
 This is a flutter project based on  <a href="https://www.figma.com/community/file/1155595414915106802/travel-app-ui-kit-free-download">Travel App UI Kit - Figma</a> 
 
 Onboarding Screen <br>
-<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692116991.png" height=2340 width=1080></img>
+<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692116991.png"></img>
 
 Login/SignUp Screen <br>
-<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692116999.png" height=2340 width=1080></img> <img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692117004.png" height=2340 width=1080></img>
+<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692116999.png"></img> <img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692117004.png"></img>
 
 Error Popup Trial <br>
-<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692117090.png" height=2340 width=1080></img>
+<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692117090.png"></img>
 
 Main - Explore Screen <br>
-<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692161635.png" height=2340 width=1080></img>
+<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692161635.png"></img>
 
 Details Screen <br>
-<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692161630.png" height=2340 width=1080></img>
+<img src="https://github.com/iamluckycheema/TravelApp-FirebaseAuth/blob/main/Screenshots/Screenshot_1692161630.png"></img>
 
 ## Getting Started
 
