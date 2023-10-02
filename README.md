@@ -1,10 +1,12 @@
-# travel_app
+# Travel App with Firebase Auth
 
-A new Flutter project.
+This is a flutter project based on  <a href="https://www.figma.com/community/file/1155595414915106802/travel-app-ui-kit-free-download">Travel App UI Kit - Figma</a> 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+After installing and configuring flutter enviournment clone/download this repository and run "flutter pub-get".
+Then "flutter run".
 
 A few resources to get you started if this is your first Flutter project:
 
