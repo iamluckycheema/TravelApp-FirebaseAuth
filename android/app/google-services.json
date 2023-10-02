@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393914295339",
+    "project_id": "chrome-setting-258704",
+    "storage_bucket": "chrome-setting-258704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393914295339:android:22367f2f2b6272e4f8366e",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwkiwD5rFFW_MztPdH--C4cGrc0DL5Y_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
